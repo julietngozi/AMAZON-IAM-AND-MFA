@@ -79,5 +79,7 @@ Step 8 open your Google Authenticator and click on + sign
 Step 9 scan QR Code and take a screen shot of the code and type it.
 
 Step 10 click on assign MFA and close.
+
+![step 10](https://user-images.githubusercontent.com/104633983/191885251-166426de-d234-4932-9194-1ead874511d7.PNG)
  
 
