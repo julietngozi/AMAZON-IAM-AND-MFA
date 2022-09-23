@@ -11,7 +11,8 @@ Step 3 In the console home click IAM
 ![under step 3](https://user-images.githubusercontent.com/104633983/191880712-a1988a92-050b-4bc7-a704-29040aaa6f71.PNG)
 
 Step 4 click on Users
- 
+![step 4](https://user-images.githubusercontent.com/104633983/191882244-45dc3c2c-690e-4f38-87c7-b967ad7a8729.PNG)
+
 Step 5 click Add user
  
 Step 6 click Next Permission
