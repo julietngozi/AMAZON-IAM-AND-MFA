@@ -70,6 +70,8 @@ Step 4 click on manage (it means that they will put some codes)
 
 Step 5 choose virtual MFA device
  
+![step 5](https://user-images.githubusercontent.com/104633983/191884854-f2c8b703-edcb-4294-8263-6c23b9ac14bc.PNG)
+
 Step 7 click on continue and show QR Code
 
 Step 8 open your Google Authenticator and click on + sign
