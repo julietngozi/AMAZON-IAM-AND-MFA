@@ -50,6 +50,8 @@ Step 18 click on Groups
 
 Step 19 click on Add user to groups
 
+![step 19](https://user-images.githubusercontent.com/104633983/191884344-b34e6300-4c0e-471b-aae5-38004fbef042.PNG)
+
 Step 20 click on IT Admin
 
 step 21 click on Add to Groups and close
