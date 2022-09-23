@@ -28,6 +28,8 @@ Step 9 Next Review
  
 Step 10 click on Create User 
 
+![step 10](https://user-images.githubusercontent.com/104633983/191883923-d8596d5f-7691-4eb9-a67d-a44539331b58.PNG)
+
 Note: Give them link and password and download the CSV
 
 Step 11 click on Close
