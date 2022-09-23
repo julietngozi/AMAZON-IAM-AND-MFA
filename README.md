@@ -7,7 +7,8 @@ Step 1 sign in to an AWS account as the root user or IAM user Open https://conso
 
 Step 2 enter your email and your password
 
-Step 3 In the console home click IAM![under step 3](https://user-images.githubusercontent.com/104633983/191880712-a1988a92-050b-4bc7-a704-29040aaa6f71.PNG)
+Step 3 In the console home click IAM
+![under step 3](https://user-images.githubusercontent.com/104633983/191880712-a1988a92-050b-4bc7-a704-29040aaa6f71.PNG)
 
 Step 4 click on Users
  
