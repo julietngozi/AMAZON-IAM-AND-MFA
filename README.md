@@ -20,7 +20,7 @@ Step 5 click Add user
 Step 6 click Next Permission
 
 Step 7 Attach existing policies
- 
+![step 7](https://user-images.githubusercontent.com/104633983/191883122-ac7c3cf8-550f-422a-a286-13d05c9aa411.PNG)
 
 Step 8 Add Tags (optional)
 
